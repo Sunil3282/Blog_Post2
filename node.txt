@@ -1,0 +1,2 @@
+sequelize model:generate --name Post --attributes title:string,content:text,imageUrl:string,categoryId:integer,userId:integer
+user models
